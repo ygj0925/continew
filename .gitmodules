@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ygj0925/vite-admin-shadcn-ts.git
+[submodule "frontend-bck"]
+	path = frontend-bck
+	url = https://github.com/continew-org/continew-admin-ui.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/continew-org/continew-admin.git
